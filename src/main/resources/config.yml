@@ -1,0 +1,4 @@
+tnt_disable_size: 5
+tnt_duration: 30s
+# this is the percentage of the complete reinforcement durability
+tnt_damage_increase: 0.5
